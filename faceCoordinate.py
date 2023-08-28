@@ -14,8 +14,7 @@ def detectAndDisplay(frame):
             # Capture frames in the video
         #ret, frame = cap.read()
     
-        # describe the type of font
-        # to be used.
+        #type of font to be used.
         font = cv.FONT_HERSHEY_SIMPLEX
     
         # Use putText() method for
